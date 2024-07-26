@@ -31,3 +31,5 @@ Customer analysis is a critical business function that helps companies understan
 ### Conclusion
 
 A customer analysis project using Tableau can help businesses gain a competitive advantage by understanding their customers better and providing personalized experiences that meet their needs and expectations. This comprehensive approach enables businesses to make data-driven decisions, ultimately improving customer satisfaction and fostering long-term loyalty.
+
+You can visit the Dashboard here https://public.tableau.com/app/profile/uday.kumar4382/viz/CustomerAnalysis_17219950703960/TotalRevenue
